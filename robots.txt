@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Crawl-delay: 0
 Sitemap: https://hahahaha8888.github.io/turnitin/sitemap.xml
